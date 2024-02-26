@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Router>
       <Routes>
-        <Route exact path="/" element={<Dasboard />}></Route>
+        <Route exact path="/demo-project" element={<Dasboard />}></Route>
       </Routes>
       </Router>
 
