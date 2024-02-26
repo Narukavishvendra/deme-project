@@ -1,10 +1,8 @@
-import Header from "../components/header/header"
-import './Dashboard.css'
+import Header from "../components/header/header";
+import './Dashboard.css';
 import Button from 'react-bootstrap/Button';
 import { IoVideocam } from "react-icons/io5";
-import FloatingLabel from 'react-bootstrap/FloatingLabel';
-import Form from 'react-bootstrap/Form';
-import gitlImage from '../assets/img/right-background.jpeg'
+import gitlImage from '../assets/img/right-background.jpeg';
 import Footer from "../components/footer/footer";
 export const Dasboard = () => {
     return (
