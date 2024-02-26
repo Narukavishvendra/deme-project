@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Narukavishvendra/deme-project.git/static/css/main.9f59fcab.css",
+    "main.js": "/Narukavishvendra/deme-project.git/static/js/main.69f60937.js",
+    "static/js/453.e062e59e.chunk.js": "/Narukavishvendra/deme-project.git/static/js/453.e062e59e.chunk.js",
+    "static/media/right-background.jpeg": "/Narukavishvendra/deme-project.git/static/media/right-background.061aa18ef764837a0f10.jpeg",
+    "index.html": "/Narukavishvendra/deme-project.git/index.html",
+    "main.9f59fcab.css.map": "/Narukavishvendra/deme-project.git/static/css/main.9f59fcab.css.map",
+    "main.69f60937.js.map": "/Narukavishvendra/deme-project.git/static/js/main.69f60937.js.map",
+    "453.e062e59e.chunk.js.map": "/Narukavishvendra/deme-project.git/static/js/453.e062e59e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f59fcab.css",
+    "static/js/main.69f60937.js"
+  ]
+}
